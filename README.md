@@ -8,4 +8,4 @@ The XGrid C++ Pathfinder Plugin can be added to your project by following these 
 4. Search for HybridPathfinderPlugin and enable it if it is not already enable.
 5. Reset Unreal Engine
 
-Once the plugin is installed, you can continue with the next steps in the C++ Pathfinder Plugin installation guide!
+Once the plugin is added to Unreal, you can continue with the next steps in the C++ Pathfinder Plugin installation guide!
